@@ -84,7 +84,7 @@ How to Run
 1. Download the ZIP file.
 2. Extract all files.
 3. Keep the following files together:
-   - `ITNetworkOperationsSimulator.exe
+   - `ITNetworkOperationsSimulator.exe`
    - `raylib.dll`
    - `glfw3.dll`
 4. Run `ITNetworkOperationsSimulator.exe`.
