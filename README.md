@@ -75,3 +75,18 @@ Screenshots are included to show the topology view, device table view, device de
 
 Limitations:
 This is a simulation project and does not connect to real network devices. Device metrics, incidents, and alerts are generated within the application for demonstration purposes.
+
+A precompiled Windows build is available  in:
+`ITNetworkOperationsSimulator-v1.0-Windows.zip`
+
+How to Run
+
+1. Download the ZIP file.
+2. Extract all files.
+3. Keep the following files together:
+   - `ITNetworkOperationsSimulator.exe
+   - `raylib.dll`
+   - `glfw3.dll`
+4. Run `ITNetworkOperationsSimulator.exe`.
+
+Do not run the executable directly from inside the ZIP archive.
