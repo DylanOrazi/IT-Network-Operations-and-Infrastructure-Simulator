@@ -1,0 +1,36 @@
+IT Network Operations and Infrastructure Simulator
+Session Report
+============================================================
+
+SESSION SUMMARY
+------------------------------------------------------------
+Total devices monitored: 6
+Total alerts generated: 2
+Total incidents tracked: 1
+Open incidents: 0
+Resolved incidents: 1
+Technician actions logged: 0
+
+DEVICE HEALTH SUMMARY
+------------------------------------------------------------
+EDGE-RTR-01 | Router | Online | Health 98% | CPU 5% | Memory 8% | Latency 5.0 ms | Packet Loss 0.2%
+SEC-FW-01 | Firewall | Online | Health 93% | CPU 21% | Memory 39% | Latency 1.1 ms | Packet Loss 0.1%
+CORE-SW-01 | Core Switch | Online | Health 92% | CPU 6% | Memory 5% | Latency 26.5 ms | Packet Loss 3.1%
+APP-SRV-01 | Server | Online | Health 83% | CPU 46% | Memory 63% | Latency 3.1 ms | Packet Loss 0.4%
+BACKUP-SRV-01 | Backup Server | Maintenance | Health 91% | CPU 0% | Memory 0% | Latency 0.0 ms | Packet Loss 0.0%
+ACCESS-SW-01 | Access Switch | Online | Health 94% | CPU 18% | Memory 29% | Latency 4.6 ms | Packet Loss 0.4%
+
+ALERT SUMMARY
+------------------------------------------------------------
+#2 | 1.0s | INFO | CORE-SW-01 changed to Online
+#1 | 0.3s | INFO | Network monitoring started
+
+INCIDENT SUMMARY
+------------------------------------------------------------
+#1 | Device ID 3 | WARNING | RESOLVED | CORE-SW-01 warning health condition | Opened 0.3s | Updated 1.0s
+
+TECHNICIAN ACTIVITY LOG
+------------------------------------------------------------
+No technician actions recorded.
+
+END OF REPORT
